@@ -11,6 +11,7 @@ python ChatGPT_GUI.py
 
 # To get ChatGPT GUI application
 visit : https://drive.google.com/file/d/17rvI03F1P0tLzPdfea9dREA99qSQAfsS/view?usp=drive_link
+
 visit : https://mega.nz/file/gDdQ2TKb#3OvQpYNR9hC6wWxGl175iAQ_T1D_BPgTqSSiTdsFvHk
 
 # To access Application
